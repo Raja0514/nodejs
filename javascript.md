@@ -1,6 +1,6 @@
 Before Learn Nodejs
 
-1. vascript & programing Fundamentals
+1. javascript & programing Fundamentals
 
 * Data-Types
 * Variables
